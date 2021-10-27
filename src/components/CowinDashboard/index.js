@@ -143,4 +143,3 @@ class CowinDashboard extends Component {
 }
 
 export default CowinDashboard
-
